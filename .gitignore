@@ -1,0 +1,10 @@
+## ignore list
+
+# an4 (dataset)
+an4/
+
+# ignore numpy files (calculated meta data)
+*.npy
+
+# system defaults
+.DS_Store
